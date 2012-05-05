@@ -1,0 +1,13 @@
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\d3mpqs.dll
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\d3mpqs.pdb
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\CrystalMpq.dll
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\Gibbed.IO.dll
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\gslibrary.dll
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\PowerCollections.dll
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\ICSharpCode.SharpZipLib.dll
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\gslibrary.pdb
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\CrystalMpq.xml
+S:\D3\c# client\gslibrary\d3mpqs\bin\Release\PowerCollections.xml
+S:\D3\c# client\gslibrary\d3mpqs\obj\Release\ResolveAssemblyReference.cache
+S:\D3\c# client\gslibrary\d3mpqs\obj\Release\d3mpqs.dll
+S:\D3\c# client\gslibrary\d3mpqs\obj\Release\d3mpqs.pdb

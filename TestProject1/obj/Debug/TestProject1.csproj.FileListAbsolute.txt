@@ -1,0 +1,7 @@
+S:\mingw\Shadow\gslibrary\TestProject1\bin\Debug\TestProject1.dll
+S:\mingw\Shadow\gslibrary\TestProject1\bin\Debug\TestProject1.pdb
+S:\mingw\Shadow\gslibrary\TestProject1\bin\Debug\gslibrary.dll
+S:\mingw\Shadow\gslibrary\TestProject1\bin\Debug\gslibrary.pdb
+S:\mingw\Shadow\gslibrary\TestProject1\obj\Debug\ResolveAssemblyReference.cache
+S:\mingw\Shadow\gslibrary\TestProject1\obj\Debug\TestProject1.dll
+S:\mingw\Shadow\gslibrary\TestProject1\obj\Debug\TestProject1.pdb

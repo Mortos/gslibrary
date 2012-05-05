@@ -1,0 +1,22 @@
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\ResolveAssemblyReference.cache
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\StructCompare.Form1.resources
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\StructCompare.Properties.Resources.resources
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\GenerateResource.read.1.tlog
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\GenerateResource.write.1.tlog
+S:\mingw\Shadow\gslibrary\StructCompare\bin\Release\StructCompare.exe
+S:\mingw\Shadow\gslibrary\StructCompare\bin\Release\StructCompare.pdb
+S:\mingw\Shadow\gslibrary\StructCompare\bin\Release\D3TypeDescriptor.dll
+S:\mingw\Shadow\gslibrary\StructCompare\bin\Release\D3TypeDescriptor.pdb
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\StructCompare.exe
+S:\mingw\Shadow\gslibrary\StructCompare\obj\x86\Release\StructCompare.pdb
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\StructCompare.exe
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\StructCompare.pdb
+S:\D3\c# client\gslibrary\StructCompare\bin\Release\StructCompare.exe
+S:\D3\c# client\gslibrary\StructCompare\bin\Release\StructCompare.pdb
+S:\D3\c# client\gslibrary\StructCompare\bin\Release\D3TypeDescriptor.dll
+S:\D3\c# client\gslibrary\StructCompare\bin\Release\D3TypeDescriptor.pdb
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\ResolveAssemblyReference.cache
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\StructCompare.Form1.resources
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\StructCompare.Properties.Resources.resources
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\GenerateResource.read.1.tlog
+S:\D3\c# client\gslibrary\StructCompare\obj\x86\Release\GenerateResource.write.1.tlog

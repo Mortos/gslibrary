@@ -1,0 +1,19 @@
+S:\mingw\Shadow\gslibrary\gslibrary\bin\Release\gslibrary.dll
+S:\mingw\Shadow\gslibrary\gslibrary\bin\Release\gslibrary.pdb
+S:\mingw\Shadow\gslibrary\gslibrary\obj\Release\ResolveAssemblyReference.cache
+S:\mingw\Shadow\gslibrary\gslibrary\obj\Release\gslibrary.dll
+S:\mingw\Shadow\gslibrary\gslibrary\obj\Release\gslibrary.pdb
+S:\D3\gslibrary\gslibrary\bin\Release\gslibrary.dll
+S:\D3\gslibrary\gslibrary\bin\Release\gslibrary.pdb
+S:\D3\gslibrary\gslibrary\obj\Release\ResolveAssemblyReference.cache
+S:\D3\gslibrary\gslibrary\obj\Release\gslibrary.dll
+S:\D3\gslibrary\gslibrary\obj\Release\gslibrary.pdb
+S:\D3\c# client\gslibrary\gslibrary\bin\Release\gslibrary.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Release\gslibrary.pdb
+S:\D3\c# client\gslibrary\gslibrary\obj\Release\ResolveAssemblyReference.cache
+S:\D3\c# client\gslibrary\gslibrary\obj\Release\gslibrary.dll
+S:\D3\c# client\gslibrary\gslibrary\obj\Release\gslibrary.pdb
+S:\D3\c# client\gslibrary\gslibrary\bin\Release\CrystalMpq.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Release\Gibbed.IO.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Release\ICSharpCode.SharpZipLib.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Release\CrystalMpq.xml

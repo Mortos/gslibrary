@@ -1,0 +1,85 @@
+ACD/ACDCreateActorMessage
+ACD/ACDDestroyActorMessage
+
+Artisan/ArtisanWindowClosedMessage
+Artisan/BlacksmithDataInitialMessage
+Artisan/BlacksmithDataProgressMessage
+Artisan/CraftInteractionMessage
+Artisan/JewelerDataInitialMessage
+Artisan/JewelerDataProgressMessage
+Artisan/OpenArtisanWindowMessage
+Artisan/RequestAddSocketMessage
+Artisan/RequestTrainArtisanMessage
+
+Connection/LogoutComplete
+
+Conversation/FinishConversationMessage
+Conversation/RequestCloseConversationWindowMessage
+
+Hireling/HirelingDismissMessage
+Hireling/HirelingHireMessage
+Hireling/HirelingInfoUpdateMessage
+Hireling/HirelingInventoryMessage
+
+Inventory/InventoryDropItemMessage
+Inventory/RequestUseNephalemCubeMessage
+
+Misc/PlayerBusyMessage
+Misc/ShrineActivatedMessage
+Misc/SNONameDataMessage << Should be SNOHandle not SNOName
+
+NPC/NPCSelectConversationMessage
+
+Player/PlayerTranslateFacingMessage
+
+Quest/QuestStepCompleteMessage
+
+Skill/AssignActiveSkillMessage
+Skill/CancelChanneledSkillMessage
+
+Stash/OpenSharedStashMessage
+Stash/RequestBuySharedStashSlotsMessage
+
+Tick/GameTickMessage
+
+Trade/OpenTradeWindow
+Trade/RequestBuyItemMessage
+Trade/RequestSellItemMessage
+
+Waypoint/OpenWaypointSelectionWindowMessage
+
+Fields/NetAttributeKeyValue << 4 members in mooege. Only 2 in XML
+Fields/SkillKeyMapping
+
+Core/GS/Common/Types/Math/Vector2F
+Core/GS/Common/Types/Misc/Circle << Should have Vector2F NOT Vector2D
+Core/GS/Common/Types/Misc/QuadTrees/QuadNode
+Core/GS/Common/Types/Misc/QuadTrees/QuadTree
+Core/GS/Common/Types/Misc/Scene/SceneSpecification << Vector2D should replace IVector2D in XML
+Core/GS/Common/Types/Misc/SNO/SNOGroup
+Core/GS/Common/Types/Misc/SNO/SNOHandle
+Core/GS/Common/Types/Misc/TagMap/allfiles
+
+ACD/ACDPickupFailedMessage -         public Reasons Reason.  Not defined in XML
+
+MPQ/FileFormats/Actor << Huge Mess  ActorType-DNExist TagMap-NotSure
+MPQ/FileFormats/Anim  << Mess AnimPermutation-SerialzeData
+MPQ/FileFormats/AnimSet << Little Mess
+MPQ/FileFormats/BossEncounter << Extra Float 
+MPQ/FileFormats/Conversation  << Extra serializedata ConversationTypes-DNExist  ConversationTreeNode-MixedUp
+MPQ/FileFormats/ConversationList << SerialzeData
+MPQ/FileFormats/EffectGroup <<SerializeData
+MPQ/FileFormats/Encounter <<SerialzeData  EncounterSpawnOptions-DNExist
+MPQ/FileFormats/GameBalance <<Too many to list, Items should be ItemTypeTable and ItemTable, Labels should be LabelGBIDTable  AttributeSpecifier-SerialzeData
+MPQ/FileFormats/Globals <<SerializeData
+MPQ/FileFormats/LevelArea <<Not enough elements GizmoLocSpawnEntry-Should be SNOHandle 
+MPQ/FileFormats/Lore << LoreCategory-Missing
+MPQ/FileFormats/MarkerSet <<MixedUp Marker-SNOName should be handle
+MPQ/FileFormats/Monster << Missing many elements
+MPQ/FileFormats/PhysMesh <<SerialzeData  CollisionMesh-Messed up
+MPQ/FileFormats/Power <<PowerDef-Should be 1 Buffs field not 4
+MPQ/FileFormats/Quest << Mixed Up  QuestUnassignedStep-Too many elements, QuestStep-Mixed
+MPQ/FileFormats/Scene << Mixed up  NavMeshDef-Missing elements  TriggerEvent-Mixed  NavZoneDef-NavZoneDefinition?, NavCell-Mixed
+MPQ/FIleFormats/SKillkit <<SeriazlezData  ActiveSkillEntry-Missing element?
+MPQ/FIleFormats/TreasureClass << LootDropModifier-Mixed
+MPQ/FIleFormats/World <<All missing?

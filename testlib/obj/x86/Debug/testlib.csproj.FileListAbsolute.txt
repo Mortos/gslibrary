@@ -1,0 +1,20 @@
+S:\mingw\Shadow\gslibrary\testlib\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\mingw\Shadow\gslibrary\testlib\bin\Debug\testlib.exe
+S:\mingw\Shadow\gslibrary\testlib\bin\Debug\testlib.pdb
+S:\mingw\Shadow\gslibrary\testlib\bin\Debug\gslibrary.dll
+S:\mingw\Shadow\gslibrary\testlib\bin\Debug\gslibrary.pdb
+S:\mingw\Shadow\gslibrary\testlib\obj\x86\Debug\testlib.exe
+S:\mingw\Shadow\gslibrary\testlib\obj\x86\Debug\testlib.pdb
+S:\D3\gslibrary\testlib\obj\x86\Debug\testlib.exe
+S:\D3\gslibrary\testlib\obj\x86\Debug\testlib.pdb
+S:\D3\c# client\gslibrary\testlib\obj\x86\Debug\testlib.exe
+S:\D3\c# client\gslibrary\testlib\obj\x86\Debug\testlib.pdb
+S:\D3\c# client\gslibrary\testlib\obj\x86\Debug\ResolveAssemblyReference.cache
+S:\D3\c# client\gslibrary\testlib\bin\Debug\testlib.exe
+S:\D3\c# client\gslibrary\testlib\bin\Debug\testlib.pdb
+S:\D3\c# client\gslibrary\testlib\bin\Debug\gslibrary.dll
+S:\D3\c# client\gslibrary\testlib\bin\Debug\gslibrary.pdb
+S:\D3\c# client\gslibrary\testlib\bin\Debug\CrystalMpq.dll
+S:\D3\c# client\gslibrary\testlib\bin\Debug\Gibbed.IO.dll
+S:\D3\c# client\gslibrary\testlib\bin\Debug\ICSharpCode.SharpZipLib.dll
+S:\D3\c# client\gslibrary\testlib\bin\Debug\CrystalMpq.xml

@@ -1,0 +1,14 @@
+S:\mingw\Shadow\gslibrary\gslibrary\obj\Debug\ResolveAssemblyReference.cache
+S:\mingw\Shadow\gslibrary\gslibrary\bin\Debug\gslibrary.dll
+S:\mingw\Shadow\gslibrary\gslibrary\bin\Debug\gslibrary.pdb
+S:\mingw\Shadow\gslibrary\gslibrary\obj\Debug\gslibrary.dll
+S:\mingw\Shadow\gslibrary\gslibrary\obj\Debug\gslibrary.pdb
+S:\D3\c# client\gslibrary\gslibrary\bin\Debug\gslibrary.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Debug\gslibrary.pdb
+S:\D3\c# client\gslibrary\gslibrary\obj\Debug\ResolveAssemblyReference.cache
+S:\D3\c# client\gslibrary\gslibrary\obj\Debug\gslibrary.dll
+S:\D3\c# client\gslibrary\gslibrary\obj\Debug\gslibrary.pdb
+S:\D3\c# client\gslibrary\gslibrary\bin\Debug\CrystalMpq.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Debug\Gibbed.IO.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Debug\ICSharpCode.SharpZipLib.dll
+S:\D3\c# client\gslibrary\gslibrary\bin\Debug\CrystalMpq.xml
